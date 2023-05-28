@@ -41,6 +41,7 @@ button{
     justify-content: space-between;
     align-items: center;
     color: #f1f1f1;
+    text-shadow: 2px 2px 2px #000000;
     width: 30%;
     font-size: 70px;
 }
